@@ -32,7 +32,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **PROGRAM**
 
- Developed by:DANISH NICHO N RegisterNumber:212222230115
+ Developed by:RAKESH JS RegisterNumber:212222230115
 ```
 module dflipflop(D,Clock,reset,Q);
 input D,reset,Clock;
